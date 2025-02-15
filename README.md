@@ -27,8 +27,6 @@ Here are some of the technologies and tools I work with:
 
 ## 🔥 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satriahelmy&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satriahelmy&layout=compact&theme=radical)
 
 ---
