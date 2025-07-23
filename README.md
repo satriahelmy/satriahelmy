@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Helmy
 
-**`Data Analyst | Digital Product Creator`**
+**`Data Analyst`**
 
 Welcome to my GitHub profile! I'm passionate about Data Analysis, Web Development and Machine Learning. I love to create, learn, and collaborate on exciting projects.
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about Data Analysis, Web Developmen
 ## 🚀 About Me
 
 - 💼 I’m currently working at company as a Data Analyst.
-- 🌱 I’m currently learning Machine Learning and No SQL.
+- 🌱 I’m currently learning Machine Learning, No SQL dan Generative AI.
 - 📫 How to reach me: helmysmp@gmail.com.
 
 ---
