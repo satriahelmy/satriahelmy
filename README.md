@@ -25,12 +25,6 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## 🔥 My GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satriahelmy&layout=compact&theme=radical)
-
----
-
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/helmysatria/)
